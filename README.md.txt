@@ -1,11 +1,14 @@
-# الملف الشخصي (Portfolio)
+# (Portfolio)
 
 مرحبًا  
-أنا رحمة عبد الحكيم، مطورة واجهات أمامية مبتدئة (Junior Front-End Developer). أحب تطوير الويب وبناء واجهات مستخدم تفاعلية، وعندي اهتمام بمجالات مثل نظم المعلومات الجغرافية (GIS)، AutoCAD وأدوات هندسية أخرى.
+أنا رحمة عبد الحكيم، مطورة واجهات أمامية مبتدئة
+ أحب تطوير الويب وبناء واجهات مستخدم تفاعلية
+وعندي اهتمام بمجالات مثل نظم المعلومات الجغرافية 
+وأدوات هندسية أخرى
 
-يعرض هذا الـ Portfolio أعمالي في تطوير الويب مع مشاريع تعليمية وتطبيقية في GIS وAutoCAD وMicroStation. مؤخرًا أصبحت شغوفة بالويب وأسعى لتعلم مهارات جديدة خطوة بخطوة من خلال التجربة والتطبيق العملي.
+ أصبحت شغوفة بالويب وأسعى لتعلم مهارات جديدة خطوة بخطوة من خلال التجربة والتطبيق العملي
 
----
+------------------------------------------
 
 ## محتويات الـ Portfolio
 
@@ -38,22 +41,24 @@
 
 ## نبذة عني
 
-أحب دمج البرمجة مع المجالات الهندسية والتقنية التي تعلمتها لبناء حلول عملية وتفاعلية.  
-في زمن التطور السريع، أركز على التعلم المستمر وتجربة تقنيات حديثة بدل الاعتماد على الطرق التقليدية.    
+أحب دمج البرمجة مع المجالات الهندسية والتقنية التي تعلمتها لبناء حلول عملية وتفاعلية  
+في زمن التطور السريع أركز على التعلم المستمر وتجربة تقنيات حديثة بدل الاعتماد على الطرق التقليدية   
 أسعى للتطور كمطورة واجهات أمامية مبتدئة، وبناء مشاريع تعليمية وتطبيقية بشكل منظم، مع التركيز على الابتكار والإبداع.
 
 شكرًا لزيارتك الـ Portfolio 
 
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
 # Portfolio
 
 Hi  
-I’m Rahma Abd Alhakeem, a Junior Front-End Developer. I love web development and building interactive user interfaces, and I’m interested in fields like GIS, AutoCAD, and other engineering tools.
+I’m Rahma Abd Alhakeem, a beginner front-end developer.
+I love web development and creating interactive user interfaces.
+I’m also interested in areas like Geographic Information Systems (GIS) and other engineering tools.
 
-This portfolio showcases my web development work along with educational and practical projects in GIS, AutoCAD, and MicroStation. Recently, I became passionate about web development and I’m learning new skills step by step through hands-on projects and practical experience.
+I have developed a passion for the web and strive to learn new skills step by step through hands-on experience and practical application.
 
----
+-------------------------------------------------------------------------
 
 ## Portfolio Contents
 

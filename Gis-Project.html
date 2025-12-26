@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="GIS projects including spatial analysis, surface analysis, DEM, contour, and PostgreSQL GIS.">
+    <title>GIS Project</title>
+
+    <link rel="Icon" href="./assets/GIS/arc gis logo.jpeg">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+
+    <style>
+        body {
+            background-color: black;
+            font-family: 'Noto Serif', serif;
+            color: rgb(99, 215, 250);
+        }
+
+        h1 {
+            border: 2px solid #f1f3f1;
+            width: fit-content;
+            margin: 50px auto;
+            padding: 30px 60px;
+            border-radius: 20px;
+            font-weight: 400;
+        }
+
+        h2 {
+            text-align: center;
+            margin-top: 60px;
+            margin-bottom: 20px;
+        }
+
+        .carousel {
+           width: 100%;
+           max-width: 100%;
+           margin: auto;
+        }
+
+        .carousel-item img {
+            height: 400px;
+            width: 100%;
+            object-fit: contain;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>GIS Project</h1>
+
+<!-- Layout Projects  -->
+<h2>Layout Projects</h2>
+
+<div id="layoutSlider" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./assets/GIS/layout-Calforna.jpeg" alt="GIS Layout">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Layout-Louisiana.png"  alt="GIS Layout">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Layout-schulen Hamburg in Deutschland.jfif"  alt="GIS Schools">
+        </div>
+
+       <div class="carousel-item">
+            <img src="./assets/GIS/raster- to-vactor.jpeg"  alt="Raster Vector">
+        </div>
+      
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#layoutSlider" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#layoutSlider" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+    </div>
+
+     <!--   تحليلات السطح Surface Analysis -->
+     <h2>Surface Analysis</h2>
+     
+     <div id="demSlider" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./assets/GIS/DEM.jpeg"  alt="Elevation">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Slope.jpeg"  alt="Slope">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Aspect.jpeg"  alt="Aspect Map">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Hilshade.jpeg"  alt="Hilshade">
+        </div>
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#demSlider" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#demSlider" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+<!-- تطبيقات المساحة فى بيئة GIS -->
+<h2>Spatial Analysis</h2>
+
+<div id="analysisSlider" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./assets/GIS/Point.jpeg" alt="Point Data">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Topo To Raster.jpeg"  alt="Topo To Raster">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Contour.jpeg"  alt="Contour">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/Cut-fill.jpeg"  alt="Cut Fill">
+        </div>
+
+        <div class="carousel-item">
+            <img src="./assets/GIS/كمية الحفر-وكمية الردم.jpeg"  alt="Cut-Fill">
+        </div>
+    </div>
+
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#analysisSlider" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#analysisSlider" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+<!--  Postgre SQL GIS   -->
+<h2>Postgre SQL GIS </h2>
+
+<div id="querySlider" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./assets/GIS/استعلام عن طبقة Wcountries.jpeg"  alt="Layer Query">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/الاستعلام  على طبقة الدول العالمية (Wcountries).jpeg"  alt="Countries Query">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/GIS/تجميع متوسط عدد السكان لكل دولة.jpeg"  alt="Population Average">
+        </div>
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#querySlider" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#querySlider" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+
+<div class="text-center my-5">
+  <a href="index.html" class="btn btn-outline-info px-4">
+    ← Back to Portfolio
+  </a>
+</div>
+<!-- Bootstrap JS -->
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

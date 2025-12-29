@@ -12,7 +12,7 @@
 
 ## محتويات الـ Portfolio
 
-- مشاريع Front-End باستخدام HTML، CSS، JavaScript، وBootstrap  
+- مشاريع Front-End باستخدام HTML- CSS-JavaScript- Bootstrap  
 - مشاريع GIS تعليمية وتطبيقية تشمل التحليل المكاني، تحليل السطح، وإعداد الخرائط والـ Layouts  
 - نماذج رسومات AutoCAD بصيغة PDF  
 
@@ -24,7 +24,7 @@
 - CSS3  
 - Bootstrap  
 - JavaScript  
-- GIS  
+( GIS)  
   - ArcGIS Desktop  
   - ArcGIS Pro  
   - ArcGIS Online  
@@ -74,7 +74,7 @@ I have developed a passion for the web and strive to learn new skills step by st
 - CSS3  
 - Bootstrap  
 - JavaScript  
-- GIS  
+   ( GIS)  
   - ArcGIS Desktop  
   - ArcGIS Pro  
   - ArcGIS Online  

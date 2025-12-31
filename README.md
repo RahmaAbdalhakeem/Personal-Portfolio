@@ -2,7 +2,7 @@
 
 # 🌸 Personal Portfolio
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&width=600&lines=Hi+👋+I'm+**Rahma+Abd+Alhakeem**;**Junior+Front-End+Developer**;**GIS**;**Surveying+%26+AutoCAD**">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=#ADD8E6&center=true&width=600&lines=Hi+👋+I'm+Rahma+Abd+Alhakeem;Junior+Front-End+Developer;GIS;Surveying+%26+AutoCAD">
 
 </div>
 

@@ -1,98 +1,83 @@
-# (Portfolio)
+<div align="center">
 
-مرحبًا  
-أنا رحمة عبد الحكيم، مطورة واجهات أمامية مبتدئة
- أحب تطوير الويب وبناء واجهات مستخدم تفاعلية
-وعندي اهتمام بمجالات مثل نظم المعلومات الجغرافية 
-وأدوات هندسية أخرى
+# 🌸 Personal Portfolio
 
- أصبحت شغوفة بالويب وأسعى لتعلم مهارات جديدة خطوة بخطوة من خلال التجربة والتطبيق العملي
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Rahma+Abd+Alhakeem;Junior+Front-End+Developer;Web+%26+GIS+Enthusiast">
 
-------------------------------------------
+</div>
 
-## محتويات الـ Portfolio
 
-- مشاريع Front-End باستخدام HTML- CSS-JavaScript- Bootstrap  
-- مشاريع GIS تعليمية وتطبيقية تشمل التحليل المكاني، تحليل السطح، وإعداد الخرائط والـ Layouts  
-- نماذج رسومات AutoCAD بصيغة PDF  
+
+## 👋 Hi | مرحبًا
+أنا رحمة عبد الحكيم مطورة واجهات أمامية مبتدئة، أحب تطوير الويب وبناء واجهات مستخدم تفاعلية.  
+لدي اهتمام بمجالات مثل نظم المعلومات الجغرافية (GIS) والأدوات الهندسية الأخرى.
+
+I’m Rahma Abd Alhakeem, a Junior Front-End Developer 
+I’m also interested in Geographic Information Systems (GIS) and engineering tools.
+
 
 ---
 
-## التقنيات التي تعلمتها
+## 🌱 My Journey | رحلتي
+أصبحت شغوفة بتطوير الويب وأسعى لتعلم مهارات جديدة خطوة بخطوة من خلال التجربة والتطبيق العملي.
 
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
-( GIS)  
-  - ArcGIS Desktop  
-  - ArcGIS Pro  
-  - ArcGIS Online  
-  - PostgreSQL GIS  
-- AutoCAD  
-- MicroStation  
-
-------------------------------------
-
-## ملاحظات
-
-المشاريع المعروضة تهدف لإظهار ما تعلمته 
----------------------------------------
-
-## نبذة عني
-
-أحب دمج البرمجة مع المجالات الهندسية والتقنية التي تعلمتها لبناء حلول عملية وتفاعلية  
-في زمن التطور السريع أركز على التعلم المستمر وتجربة تقنيات حديثة بدل الاعتماد على الطرق التقليدية   
-أسعى للتطور كمطورة واجهات أمامية مبتدئة، وبناء مشاريع تعليمية وتطبيقية بشكل منظم، مع التركيز على الابتكار والإبداع.
-
-شكرًا لزيارتك الـ Portfolio 
-
-------------------------------------------------------------------------------------------------------------
-
-# Portfolio
-
-Hi  
-I’m Rahma Abd Alhakeem, a beginner front-end developer.
-I love web development and creating interactive user interfaces.
-I’m also interested in areas like Geographic Information Systems (GIS) and other engineering tools.
-
-I have developed a passion for the web and strive to learn new skills step by step through hands-on experience and practical application.
-
--------------------------------------------------------------------------
-
-## Portfolio Contents
-
-- Front-End projects using HTML, CSS, JavaScript, and Bootstrap  
-- Educational and practical GIS projects including spatial analysis, surface analysis, and map layouts  
-- AutoCAD drawing samples in PDF format  
+I have developed a passion for the web and strive to learn new skills step by step through **hands-on practice and real projects**.
 
 ---
 
-## Technologies I Learned
+## 📂 Portfolio Contents | محتويات الـ Portfolio
+- 🎨 Front-End projects using **HTML, CSS, JavaScript, Bootstrap,Tailwind css**
 
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
-   ( GIS)  
-  - ArcGIS Desktop  
-  - ArcGIS Pro  
-  - ArcGIS Online  
-  - PostgreSQL GIS  
-- AutoCAD  
-- MicroStation  
+- 🗺 GIS educational & practical projects:
+  - Spatial Analysis
+  - Surface Analysis
+  - Map Design & Layouts
+- 📐 AutoCAD drawing samples (PDF)
 
-
-
-## Notes
-
-The showcased projects are meant to highlight what I have learned
 ---
 
-## About Me
+## 🛠 Skills & Technologies | التقنيات التي تعلمتها
 
-I enjoy combining programming with the engineering and technical fields I have studied to create practical and interactive solutions.
-In today’s fast-evolving world, I focus on continuous learning and experimenting with modern technologies instead of relying on traditional methods.
-I aim to grow as a Junior Front-End Developer and build educational and practical projects in an organized way, focusing on innovation and creativity.
+### 💻 Front-End  (Junior)
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Tailwindcss
 
-Thank you for visiting my portfolio 
+### 🌍 GIS & AutoCAD
+- ArcGIS Desktop
+- ArcGIS Pro
+- ArcGIS Online
+- PostgreSQL GIS
+- AutoCAD
+- MicroStation
+
+---
+
+## 📝 Notes | ملاحظات
+المشاريع المعروضة تهدف إلى إظهار ما تعلمته وتطبيقي العملي وليست مشاريع تجارية.
+
+The showcased projects are meant to highlight my learning progress and practical experience.
+
+---
+
+## 👩‍💻 About Me | نبذة عني
+أحب دمج البرمجة مع المجالات الهندسية والتقنية لبناء حلول عملية وتفاعلية.  
+في عالم سريع التطور، أركز على التعلم المستمر وتجربة التقنيات الحديثة بدل الاعتماد على الطرق التقليدية.
+
+I enjoy combining programming with engineering and technical fields to build practical and interactive solutions.  
+I aim to grow as a **Junior Front-End Developer** and build organized educational and practical projects with a focus on **innovation and creativity**.
+
+---
+
+## 🔗 Links
+- 👨‍💻 All projects: [https://github.com/RahmaAbdalhakeem]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rahma-abd-alhakeem-0167882a5]
+- 📫 Email: [rahmaabdalhkeem730@gmail.com]
+
+---
+
+## 🙏 Thank You
+شكرًا لزيارتك الـ Portfolio 🌸  
+Thank you for visiting my portfolio 🤍

@@ -71,7 +71,7 @@ I aim to grow as a **Junior Front-End Developer** and build organized educationa
 ---
 
 ## 🔗 Links
-- 👨‍💻 All projects: [https://github.com/RahmaAbdalhakeem]
+- 👨‍💻 Github: [https://github.com/RahmaAbdalhakeem]
 - 💼 LinkedIn: [https://www.linkedin.com/in/rahma-abd-alhakeem-0167882a5]
 - 📫 Email: [rahmaabdalhkeem730@gmail.com]
 

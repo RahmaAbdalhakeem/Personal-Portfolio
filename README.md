@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Personal Portfolio
+#  Personal Portfolio
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&width=600&lines=Hi+👋+I'm+Rahma+Abd+Alhakeem;Junior+Front-End+Developer;GIS;Surveying;+AutoCAD">
 
@@ -70,6 +70,10 @@ I aim to grow as a **Junior Front-End Developer** and build organized educationa
 
 ---
 
+🔗 Live Demo:
+[https://rahmaabdalhakeem.github.io/Personal-Portfolio/]
+
+---
 ## 🔗 Links
 - 👨‍💻 Github: [https://github.com/RahmaAbdalhakeem]
 - 💼 LinkedIn: [https://www.linkedin.com/in/rahma-abd-alhakeem-0167882a5]
@@ -79,5 +83,5 @@ I aim to grow as a **Junior Front-End Developer** and build organized educationa
 If you like my project, don’t forget to give it a ⭐ on GitHub!
 
 ## 🙏 Thank You
-شكرًا لزيارتك الـ Portfolio 🌸  
+شكرًا لزيارتك الـ Portfolio 
 Thank you for visiting my portfolio 🤍
